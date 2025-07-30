@@ -1,0 +1,1 @@
+# cut_segmentation_data_and_txt
